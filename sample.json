@@ -1,0 +1,54 @@
+{
+    "VIN1": {
+        "7E0": [
+            {
+                "VIN": "VIN1",
+                "DID": "F188",
+                "Strat Part No": "abc-efghi-jk"
+            },
+            {
+                "VIN": "VIN1",
+                "DID": "F111",
+                "Strat Part No": "zxy-efghi-kl"
+            }
+        ],
+        "7E1": [
+            {
+                "VIN": "VIN1",
+                "DID": "F188",
+                "Strat Part No": "abc-efghi-kl"
+            },
+            {
+                "VIN": "VIN1",
+                "DID": "F111",
+                "Strat Part No": "zxy-efghi-jl"
+            }
+        ]
+    },
+    "VIN2": {
+        "7E0": [
+            {
+                "VIN": "VIN2",
+                "DID": "F188",
+                "Strat Part No": "abc-efghi-jkl"
+            },
+            {
+                "VIN": "VIN2",
+                "DID": "F111",
+                "Strat Part No": "zxy-efghi-jkl"
+            }
+        ],
+        "7E1": [
+            {
+                "VIN": "VIN2",
+                "DID": "F188",
+                "Strat Part No": "abc-efghi-kl"
+            },
+            {
+                "VIN": "VIN2",
+                "DID": "F111",
+                "Strat Part No": "zxy-efghi-jk"
+            }
+        ]
+    }
+}
